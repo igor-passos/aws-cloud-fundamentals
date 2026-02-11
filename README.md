@@ -1,75 +1,49 @@
-# Igor Passos | Cloud Computing Journey ☁️
+# Igor Passos | AWS Cloud Learning Journey ☁️
 
-Welcome to my Cloud Learning Repository.
+Welcome to my Cloud Computing study repository.
 
-This repository documents my transition into Cloud Computing, with a focus on AWS fundamentals, cloud architecture concepts, and real-world implementation practices.
+This repository documents my structured learning path in AWS Cloud Fundamentals, with a focus on building strong technical foundations and real-world understanding of cloud concepts.
 
 ---
 
-## 🚀 Current Focus
+## 📚 Current Progress
 
-- AWS Cloud Fundamentals
-- Core Cloud Concepts (IaaS, PaaS, SaaS)
-- Global Infrastructure & Availability Zones
-- IAM (Identity and Access Management)
+### Week 1
+- Cloud Computing Concepts
+- Cloud Service Models (IaaS, PaaS, SaaS)
 - Shared Responsibility Model
-- Cloud Security Foundations
+- Core AWS Services (EC2, S3, IAM)
+
+---
+
+## 📂 Repository Structure
+
+notes/
+ └── week-1/
+      ├── intro-to-cloud.md
+      └── aws-core-services.md
+
+---
+
+## 🛠 Focus Areas
+
+- Cloud Architecture Fundamentals
+- AWS Core Services
+- Identity and Access Management (IAM)
+- Infrastructure concepts
+- Technical documentation practice
 
 ---
 
 ## 🎯 Objective
 
-My goal is to build a strong international-level foundation in Cloud Computing, preparing myself for opportunities in global markets such as Canada and Europe.
-
-This repository serves as:
-
-- Structured study notes
-- Practical exercises
-- Concept breakdowns
-- Cloud architecture understanding
-- Progress tracking
+To build a solid foundation in Cloud Computing and continuously develop as a technology professional prepared for global opportunities.
 
 ---
 
-## 🧠 Learning Strategy
+## 📈 Learning Approach
 
-Instead of only consuming content, I:
-
-- Break down every concept in my own words
-- Document practical insights
-- Connect theory to real-world scenarios
-- Build foundational knowledge before specialization
-
----
-
-## 📌 Roadmap
-
-- [x] AWS Cloud Introduction
-- [x] AWS Global Infrastructure
-- [ ] IAM Deep Dive
-- [ ] EC2 & Compute Services
-- [ ] Storage Services (S3, EBS)
-- [ ] Networking Basics (VPC)
-- [ ] Cloud Security Best Practices
-
----
-
-## 🔭 Next Steps
-
-- Build small practical labs
-- Document architecture diagrams
-- Simulate production-like environments
-- Expand knowledge toward Cloud Architecture
-
----
-
-## 🌎 Professional Vision
-
-I am building my career in technology with a long-term goal of working internationally in Cloud Infrastructure and Architecture.
-
-This repository represents discipline, consistency, and structured growth.
-
----
-
-📍 Location: Brazil  
-📈 Status: Active Learning
+- Structured weekly documentation
+- Practical understanding of services
+- Concept breakdown and technical summaries
+- Continuous improvement and updates
